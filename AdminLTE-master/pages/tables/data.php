@@ -25,9 +25,7 @@ if(isset($_POST['submit'])){
 
   }
 }
-
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -285,7 +283,7 @@ if(isset($_POST['submit'])){
                 <b>Version</b> 3.1.0
             </div>
             <strong>Copyright &copy; 2014-2021 <a href="">AGI Denim</a>.</strong> All rights
-            reserved.
+            reserved..
         </footer>
 
     </div>
