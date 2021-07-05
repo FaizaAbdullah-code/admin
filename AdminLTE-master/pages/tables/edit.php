@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
     
     if($data){
       echo '<script type="text/javascript"> alert("record updated") </script>';
-      header('Location: http://localhost:8080/admin/AdminLTE-master/pages/tables/data.php');
+      header('Location: https://industry-panel.herokuapp.com/AdminLTE-master/pages/tables/data.php');
     }
     else{
         echo"<script> alert('record not updated') </script>";
