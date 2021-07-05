@@ -155,7 +155,7 @@ body, html {
             <p id="profile-name" class="profile-name-card"></p>
             <form class="form-signin" action="authentication.php" method="post">
                 <span id="reauth-email" class="reauth-email"></span>
-                <input type="text" id="inputEmail" class="form-control" name="user" placeholder="Email address">
+                <input type="text" id="inputEmail" class="form-control" name="user" placeholder="UserName">
                 <input type="password" id="inputPassword" class="form-control" name="pass" placeholder="Password">
                 <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">login</button>
             </form><!-- /form -->
