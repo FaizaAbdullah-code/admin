@@ -18,7 +18,7 @@ if(isset($_POST['submit'])){
 
   if($query_run){
     echo '<script type="text/javascript"> alert("Data Saved") </script>';
-    header('Location: http://localhost:8080/admin/AdminLTE-master/pages/tables/data.php');
+    header('Location: https://industry-panel.herokuapp.com/AdminLTE-master/pages/tables/data.php');
   }
   else{
     echo '<script type="text/javascript"> alert("Data not Saved") </script>';
