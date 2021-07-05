@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="./AdminLTE-master/pages/tables/data.php"> click here</a>
+    <a href="./AdminLTE-master/pages/tables/data1.php"> click here</a>
 </body>
 </html>
