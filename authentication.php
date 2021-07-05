@@ -16,7 +16,7 @@
           
         if($count == 1){  
             echo "<h1><center> Login successful </center></h1>";
-            header('Location: https://industry-panel.herokuapp.com/AdminLTE-master/pages/tables/data.php'');  
+            header('Location: https://industry-panel.herokuapp.com/AdminLTE-master/pages/tables/data.php');  
         }  
         else{  
             echo "<h1> Login failed. Invalid username or password.</h1>";  
